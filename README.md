@@ -1,5 +1,7 @@
 # FitTrack — Agile Project Management Portfolio
 
+Live site: **https://mrunali121.github.io/-fittrack-agile-pm-portfolio/**
+
 **Role:** Scrum Product/Project Manager (simulated project)
 **Methodology:** Scrum (2-week sprints)
 **Tools referenced:** Jira-style backlog, Confluence-style docs, Google Sheets for tracking
