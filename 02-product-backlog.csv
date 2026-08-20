@@ -1,0 +1,16 @@
+ID,Epic,User Story,Priority (MoSCoW),Story Points,Sprint,Status
+FT-1,Onboarding,As a new user I want to sign up with email so that I can create an account,Must,3,Sprint 1,Done
+FT-2,Onboarding,As a new user I want a 3-screen intro tutorial so that I understand the app quickly,Should,2,Sprint 1,Done
+FT-3,Workout Logging,As a user I want to log a workout type and duration so that I can track my activity,Must,5,Sprint 1,Done
+FT-4,Workout Logging,As a user I want to add notes to a logged workout so that I can remember details,Could,2,Sprint 3,Done
+FT-5,Workout Logging,As a user I want to edit or delete a past workout entry so that I can fix mistakes,Must,3,Sprint 1,Done
+FT-6,Step Tracking,As a user I want my daily steps tracked automatically so that I don't have to log manually,Must,8,Sprint 2,Done
+FT-7,Step Tracking,As a user I want to see a weekly step chart so that I can view my trends,Should,5,Sprint 2,Done
+FT-8,Streaks,As a user I want to build a daily streak so that I stay motivated,Must,5,Sprint 2,Done
+FT-9,Streaks,As a user I want a push notification reminder so that I don't break my streak,Must,3,Sprint 2,Done
+FT-10,Streaks,As a user I want a badge when I hit a 7-day streak so that I feel rewarded,Could,3,Sprint 3,Done
+FT-11,Platform,As a PM I want crash reporting integrated so that we catch bugs before launch,Must,3,Sprint 3,Done
+FT-12,Platform,As a QA I want a regression test suite so that releases are stable,Must,5,Sprint 3,Done
+FT-13,Social,As a user I want to share my workout to social media so that I can show progress,Won't (post-MVP),5,Backlog,Not started
+FT-14,Wearables,As a user I want Apple Watch sync so that I don't need my phone,Won't (post-MVP),8,Backlog,Not started
+FT-15,Nutrition,As a user I want to log meals so that I can track calories,Won't (post-MVP),8,Backlog,Not started
